@@ -9,7 +9,7 @@
 
 Welcome to LeeTech Solutions, where innovation meets excellence! We are a dynamic team specializing in a wide range of services to meet your digital needs. From UI/UX design to comprehensive software solutions, we are passionate about creating impactful experiences and robust applications.
 
-## Services
+## Services 👾
 
 - **UI/UX Design:** Crafting visually appealing and user-centric designs that elevate user experiences.
   
@@ -25,7 +25,7 @@ Welcome to LeeTech Solutions, where innovation meets excellence! We are a dynami
 
 - **Database Administration:** Ensuring the seamless management and optimization of databases.
 
-## Technologies We Love
+## Technologies We Love 💜
 
 Our expertise extends across a variety of technologies, including but not limited to:
 
