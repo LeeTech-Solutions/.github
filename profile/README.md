@@ -56,4 +56,4 @@ Our expertise extends across a variety of technologies, including but not limite
   <!-- Add your icons and links here -->
 </p>
 
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150">](https://www.buymeacoffee.com/leetechsolutions)
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150">](https://www.buymeacoffee.com/leighche)
