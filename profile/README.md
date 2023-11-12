@@ -51,7 +51,7 @@ Our expertise extends across a variety of technologies, including but not limite
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Support us here:</h3>
 <p align="left">
   <!-- Add your icons and links here -->
 </p>
